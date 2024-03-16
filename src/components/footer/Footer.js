@@ -43,14 +43,13 @@ const Footer = () => {
       </div>
       <div className={styles.container}>
         <div className={styles.left}>
-          <h2>Rome Bright</h2>
+          <h2>Roam Bright</h2>
           <p>
-            Explore the world with Rome Bright. From luxurious hotels to
-            curated travel packages, we turn your wanderlust into reality.
-            Uncover unique destinations, seamless booking experiences, and
-            unparalleled customer support. Join us on a journey of discovery,
-            where every trip is a story waiting to be told. Your adventure
-            begins here
+            Explore the world with Roam Bright. From luxurious hotels to curated
+            travel packages, we turn your wanderlust into reality. Uncover
+            unique destinations, seamless booking experiences, and unparalleled
+            customer support. Join us on a journey of discovery, where every
+            trip is a story waiting to be told. Your adventure begins here
           </p>
           <div className={styles.socialContainer}>
             <a
@@ -145,7 +144,7 @@ const Footer = () => {
               icon={faEnvelope}
               style={{ marginRight: "10px" }}
             />
-            info@romebright.com
+            info@roambright.com
           </div>
           <img
             src="https://i.ibb.co/Qfvn4z6/payment.png"

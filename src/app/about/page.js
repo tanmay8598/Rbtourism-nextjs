@@ -25,7 +25,9 @@ const About = () => {
           </p>
         </div>
         <div className={styles.item}>
-          <h1 className={styles.title}>What We Do: Curating Your Extraordinary Journey</h1>
+          <h1 className={styles.title}>
+            What We Do: Curating Your Extraordinary Journey
+          </h1>
           <p className={styles.desc}>
             Rome Bright specializes in crafting personalized travel experiences.
             From handpicked hotels to thoughtfully designed packages, we bring

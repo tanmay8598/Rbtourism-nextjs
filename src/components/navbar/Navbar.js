@@ -31,9 +31,9 @@ const links = [
   },
   {
     id: 12,
-    title: "Niyabat",
-    url: "/niyabat-form",
-    src: "/moon.png",
+    title: "Flights",
+    url: "/upcoming",
+    src: "/airplane.png",
   },
   {
     id: 3,
